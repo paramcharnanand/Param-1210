@@ -5,7 +5,7 @@ A Computer Science student @ SFSU building full-stack, production-ready web apps
 - 🤝 I'm looking to collaborate on **full-stack web apps, developer tools, or early-stage products**
 - 💬 Ask me about: **React, Next.js, Spring Boot, MongoDB, Java, Node.js, REST APIs, or deploying on Vercel**
 - 📫 How to reach me: **paramcharnanand17@gmail.com** or [LinkedIn](https://www.linkedin.com/in/param-charnanand-a5829b271/)
-- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1F8MkkjqPCrOHQQD3hgz-XB49BX-PSgc_/view?usp=sharing)]
+- 📄 Know about my experiences: [[Resume]([url](https://drive.google.com/file/d/1tmEuWOQzx_VmWzdPPILScLKGSnG0BVRR/view?usp=sharing))]
 **Tech Stack:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
